@@ -1,0 +1,27 @@
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\bin\Debug\net5.0\Common.deps.json
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\bin\Debug\net5.0\Common.dll
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\bin\Debug\net5.0\Common.pdb
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.csproj.ResolveComReference.cache
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.dll
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Code\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.csproj.ResolveComReference.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\refint\Common.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Release.Coordination\Release.Coordination\AzureDevOps.Api\ConsoleApp\Common\obj\Debug\net5.0\ref\Common.dll
