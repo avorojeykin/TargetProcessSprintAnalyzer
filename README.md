@@ -1,6 +1,6 @@
 # Target Process Analyzer Console Application
 
-The **Target Process Analyzer** is a console application designed to analyze Target Process user stories and bugs, identifying discrepancies and issues in the development process. The application covers 12 different scenarios to ensure the integrity and correctness of your development workflow.
+The **Target Process Analyzer** is a console application designed to analyze Target Process user stories and bugs in correlation with Azure DevOps, identifying discrepancies and issues in the development process. The application covers 12 different scenarios to ensure the integrity and correctness of your development workflow.
 
 ## Features
 
